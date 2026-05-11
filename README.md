@@ -35,7 +35,7 @@ The objective of this dashboard is to identify accident patterns, casualty distr
 
 ## 📌 Dashboard Preview
 
-<img width="100%" alt="Road Accident Analysis Dashboard" src="dashboard.png">
+<img width="100%" alt="Road Accident Analysis Dashboard" src="dashboard-preview.png">
 
 ---
 
